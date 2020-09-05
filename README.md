@@ -1,1 +1,1 @@
-![Alt Text](/cuckflong/cuckflong/glitch-github.gif)
+![Alt Text](https://raw.githubusercontent.com/cuckflong/cuckflong/master/glitch-github.gif)
